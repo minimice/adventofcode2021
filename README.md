@@ -1,3 +1,3 @@
-# adventofcode2021
+# advent-of-code-2021
 Advent of code challenges  
-Contains my solutions
+Contains my solved solutions
